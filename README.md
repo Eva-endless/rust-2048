@@ -6,7 +6,7 @@ rust-2048
 -----------
 使用箭头上下移动
 
-![alt tag](./rust-2048.png)
+![alt tag](./menu(2).png)
 
 ## 安装过程
 
