@@ -15,7 +15,7 @@ rust-2048
 
 克隆
 ```
-git clone https://github.com/Coeuvre/rust-2048.git
+git clone https://github.com/Eva-endless/rust-2048.git
 ```
 运行游戏
 
