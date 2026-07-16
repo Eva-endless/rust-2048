@@ -1,33 +1,27 @@
 rust-2048
 =========
 
-A 2048 clone with Piston game engine.
 
-How to play
+玩法
 -----------
-Use arrow key to move tiles.
+使用箭头上下移动
 
 ![alt tag](./rust-2048.png)
 
-## Building Instructions
+## 安装过程
 
-To build this repository, you need [Cargo](https://github.com/rust-lang/cargo).
-
-You also need the _Freetype 6_ and _SDL2_ libs.
-Look at [Piston-Tutorials - Installing Dependencies](https://github.com/PistonDevelopers/Piston-Tutorials/tree/master/getting-started#installing-dependencies) and [Rust-SDL2 - Requirements](https://github.com/AngryLawyer/rust-sdl2#sdl20--development-libraries) how to install them.
+你需要安装[Cargo](https://github.com/rust-lang/cargo).
 
 
-Clone this repository
+克隆
 ```
 git clone https://github.com/Coeuvre/rust-2048.git
 ```
+运行游戏
 
-Use Cargo to build
 ```
 cargo build
 ```
-
-Play!
 ```
 cargo run
 ```
